@@ -1,2 +1,2 @@
 # Image-Enchancement-using-Auto-Encoders
-Old project. Used the WIDER dataset, sampled down the images, and used that to train the Autoencoder. Used Numpy and Tensorflow primarily.
+It uses Tensorflow 2.9.2 for reference. On earlier versions the load_img method doesnt work if you use it via tf, but will work if used by Keras.
